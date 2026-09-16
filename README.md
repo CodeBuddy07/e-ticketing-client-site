@@ -1,8 +1,17 @@
-# React + Vite
+# E-Ticketing (client)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React client scaffold for an e-ticketing exercise.
 
-Currently, two official plugins are available:
+**Stack:** React, Vite, React Router  
+**Year:** 2024
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Run
+
+```bash
+npm install
+npm run dev
+```
+
+## About
+
+Part of my learning archive. It is kept public as a record of progress; current work is at [ruhulcodes.com](https://www.ruhulcodes.com) and in the pinned repositories.
